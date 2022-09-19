@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.onlinecourse, #header{
+   margin: 0 auto;
+   width: 810px;
+}
+h1{
+   font-family: 'Lato', sans-serif;
+   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 59.8px;
+   margin: 38px 0px;
+   height: 120px;
+}
+img{
+   height: 360px;
+   margin-bottom: 34px;
+   border-radius: 4px;
+}
+.text{
+   font-family: 'Lato', sans-serif;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 30px;
+   margin-bottom: 34px;
+}
+.at{
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 25.6px;
+   margin-bottom: 34px;
+}
+.lorem{
+   font-family: 'Lato', sans-serif;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 30px;
+   margin: 0px 0px 34px 58px;
+}
+.mauris{
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 25.6px;
+   margin-bottom: 34px;
+}
+.fermentum > li{
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 25.6px;
+   margin: 0px 0px 4px 32px;
+}
+.unorderlist{
+   margin-bottom: 30px;
+}
+.enim{
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 25.6px;
+   margin-bottom: 126px;
+}
+.firsttest{
+   max-width: 500px;
+   min-width: 200px;
+   max-height: 500px;
+   min-height: 100px;
+   border: 5px solid black;
+   box-shadow: 5px 5px 10px crimson;
+   border-radius: 30% 70% 65% 35% / 30% 30% 70% 70% ;
+   overflow: hidden;
+   opacity: 0.5;
+}
+.secondtest{
+   padding-top: 80px;
+   text-align: center;
+   width: 300px;
+   height: 200px;
+   background-color: yellow;
+   font-weight: 900;
+   font-size: 40px;
+   margin: 0 0 40px auto;
+   overflow: auto;
+   display: block;
+}
+.thirdtest{
+   font-size: 0;
+}
+.test_space{
+   font-size: 20px;
+   width: 100px;
+   display: inline-block;
+   padding: 15px;
+   margin-top: 5px;
+   background-color: red;
+   text-align: center;
+   border-radius: 50%;
+   border: 5px dotted green;
+   margin-bottom: 50px;
+}
+.buttom{
+   display: inline-block;
+   font-family: 'Lobster', cursive;
+   font-weight: 400;
+   background-color: red;
+   display: inline-block;
+   padding: 10px 40px;
+   color: #fff;
+   border-radius: 20px;
+   box-shadow: 1px 5px 0 black;
+   transition: all 0.3s ease 0s;
+   margin: 0 0 30px 50px;
+   width: 200px;
+}
+.buttom:hover{
+   margin-top: 3px;
+   box-shadow: 0 2px 0 black;
+}
